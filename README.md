@@ -10,6 +10,7 @@ This repository is the collection of SLAM-related datasets. Among various SLAM d
 
 We provide several category for each access of the data.
 
+
 ## News !! (Update: 2019-09-24)
 - We add [FMDataset](https://github.com/zhuzunjie17/FastFusion) which consist on RGBD and IMU data for dense reconstruction of indoor environments
 - In ICRA 2019 (Montreal), workshop on ['Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR'](https://sites.google.com/view/icra-2019-workshop/home) will be held!. We  are pretty sure that there will be many 'new' and 'hot' datasets intruduced at the workshop.
